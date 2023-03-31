@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/bixolon-webusb/static/css/main.073c9b0a.css",
-    "main.js": "/bixolon-webusb/static/js/main.9da3cbdc.js",
+    "main.js": "/bixolon-webusb/static/js/main.d844c40b.js",
     "static/js/787.d95521d8.chunk.js": "/bixolon-webusb/static/js/787.d95521d8.chunk.js",
     "static/media/logo.svg": "/bixolon-webusb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/bixolon-webusb/index.html",
     "main.073c9b0a.css.map": "/bixolon-webusb/static/css/main.073c9b0a.css.map",
-    "main.9da3cbdc.js.map": "/bixolon-webusb/static/js/main.9da3cbdc.js.map",
+    "main.d844c40b.js.map": "/bixolon-webusb/static/js/main.d844c40b.js.map",
     "787.d95521d8.chunk.js.map": "/bixolon-webusb/static/js/787.d95521d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9da3cbdc.js"
+    "static/js/main.d844c40b.js"
   ]
 }
